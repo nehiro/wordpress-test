@@ -1,3 +1,3 @@
 <?php get_header();?> 
-<main>メインコンテンツ</main>
+<main>メインコンテンツです</main>
 <?php get_footer();?> 
